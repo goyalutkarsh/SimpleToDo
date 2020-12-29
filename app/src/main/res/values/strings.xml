@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SimpleToDo</string>
+    <string name="pre_work">Pre work!</string>
+    <string name="button">Button</string>
+    <string name="string_button" />
+    <string name="add">ADD</string>
+    <string name="button">Button</string>
+    <string name="update_text">Update Text</string>
+</resources>
