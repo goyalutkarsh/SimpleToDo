@@ -40,9 +40,9 @@ GIF created with [EZGIF](http://https://ezgif.com/).
 
 Describe any challenges encountered while building the app.
 
-*[ ] App is not responding when trying to remove item.
+* ( ) App is not responding when trying to remove item.
 
-*[ ] New window for updating text is not working.
+* ( ) New window for updating text is not working.
 
 ## License
 
